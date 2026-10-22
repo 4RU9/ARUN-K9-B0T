@@ -4,7 +4,7 @@ module.exports.config = {
   name: "ai",
   version: "1.0",
   hasPermssion: 0,
-  credits: "Priyansh + AI",
+  credits: "Arun + AI",
   description: "AI se baat karo",
   commandCategory: "AI",
   usages: "[sawal]",
